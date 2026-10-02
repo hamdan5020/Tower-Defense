@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - DEBUG_LAYER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: grass
+    uniqueID: 3665851725
+    locked: 0
+  - name: path
+    uniqueID: 2138198465
+    locked: 0
+  - name: decor
+    uniqueID: 2458625997
+    locked: 0
+  - name: Units
+    uniqueID: 2497382941
+    locked: 0
+  - name: Unit OBJ
+    uniqueID: 3524599917
+    locked: 0
+  - name: Enemies
+    uniqueID: 2847552395
+    locked: 0
+  - name: DEBUG_LAYER
+    uniqueID: 757118063
+    locked: 0
